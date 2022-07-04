@@ -1,0 +1,11 @@
+-g
+-fno-limit-debug-info
+-Wall
+-pedantic
+-Wno-vla
+-O0
+-std=c++20
+-MMD
+-MF
+simple-test1.d
+-I/afs/ir/class/cs110/local/include
